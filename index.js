@@ -52,3 +52,7 @@ try {
 }
 
 getBlogContent();
+
+const loadAdds = () => {
+  console.log('Adds loaded');
+}
