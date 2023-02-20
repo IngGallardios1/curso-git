@@ -1,3 +1,3 @@
-# Curso Git
+# My Git and GitHub Practice Repository
 
-Curso de Git y GitHub con Mastermind
+This is a repository I used to practice Git and GitHub guided by Mastermind course
